@@ -37,7 +37,7 @@
 ## Visualization
 
 ### Tableau
-* Dashboard of historical Average Rent Prices Ireland [[Link](https://public.tableau.com/authoring/RTBAverageMonthlyRentIreland/Dasboard_1_test/Dashboard%20Monhtly%20rent%20Ireland#1)]
+* Dashboard of historical Average Rent Prices Ireland [[Link](https://public.tableau.com/app/profile/jose.miguel.vilches.fierro/viz/RTBAverageMonthlyRentIreland/Dasboard_1_test#1)]
 * Python code: extract oficial data from gubernamental source via API [[Link](https://github.com/jvilchesf/Housing_rent_Ireland/blob/main/MainHouseCso.py)]
 <img alt="image" src="https://github.com/user-attachments/assets/ba29a95d-d5f3-4989-8c16-70467c1177e5" width="300" height="200">
 
