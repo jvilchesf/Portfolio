@@ -51,7 +51,7 @@
 ---
 
 ### Looker studio (2)
-* Dashboard for monitoring purchases from a e-commerce webpage with Google analytics 4 [[Link](https://lookerstudio.google.com/u/0/reporting/cdc372da-515a-4510-9c68-ed8da67b1d63/page/p_13p464yedd)]
+* Dashboard for monitoring purchases from an e-commerce platform using Google Analytics 4 [[Link](https://lookerstudio.google.com/u/0/reporting/cdc372da-515a-4510-9c68-ed8da67b1d63/page/p_13p464yedd)]
 * Big query sql package to extract and manage data [[Link](https://github.com/jvilchesf/Portfolio/blob/main/Ga4_sales_dashboard.sql)]
   
 <img alt="image" src="https://github.com/user-attachments/assets/eadffa08-e05c-4fe0-abf2-7be4606e3cde" width="400" height="150">
