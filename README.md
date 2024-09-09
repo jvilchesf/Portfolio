@@ -43,12 +43,18 @@
 
 ---
 
-### Looker Studio
+### Looker Studio (1)
 * Dashboard for monitoring and managing project progress and completion [[Link](https://lookerstudio.google.com/u/0/reporting/c99bad04-bbd4-44e1-8769-0fe71caa2389/page/zjL3D])]
-* Google Colab python code to process the data [[Link](https://github.com/jvilchesf/looker_dash_qc_resources/blob/main/QC_Dashboard_qc_list2.ipynb)]
+* Google Colab python code to process the data [[Link](https://github.com/jvilchesf/looker_dash_qc_resources/blob/main/QC_Dashboard_qc_list.ipynb)]
 <img alt="image" src="https://github.com/user-attachments/assets/cbb33c51-0da9-452f-9eff-905010ded324" width="400" height="150">
 
 ---
+
+## Looker studio (2)
+* Dashboard for monitoring purchases from a e-commerce webpage with Google analytics 4 [[Link](https://lookerstudio.google.com/u/0/reporting/cdc372da-515a-4510-9c68-ed8da67b1d63/page/p_13p464yedd)]
+* Big query sql package to extract and manage data [[Link](https://github.com/jvilchesf/Portfolio/blob/main/Ga4_sales_dashboard.sql)]
+<img alt="image" src="https://github.com/user-attachments/assets/eadffa08-e05c-4fe0-abf2-7be4606e3cde" width="400" height="150">>
+
 
 
 ### Power BI
