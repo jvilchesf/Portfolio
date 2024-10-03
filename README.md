@@ -2,6 +2,13 @@
 
 ## Supervised Learning Section
 
+### CIFAR-10 CNN [[Link]([https://www.kaggle.com/code/josmiguelvilches/ga4-sales-prediction](https://github.com/jvilchesf/Learning/blob/main/CIFAR-10%20CNN/script/main_v8_augmentation.ipynb))]
+* Convolutional NN, normalization, pooling, droping from scratch
+<img src="<img width="573" alt="image" src="https://github.com/user-attachments/assets/b6f39e71-e218-4c5d-8672-93eff5993167" width = "300" height = "150">
+
+
+---
+
 ### Google analytics sales prediction [[Link](https://www.kaggle.com/code/josmiguelvilches/ga4-sales-prediction)]
 * EDA, feature selection, feature engineering and visualization.
 * XGBoost classification and machine learning insights (EDA, Dependence plots, feature engineering).
