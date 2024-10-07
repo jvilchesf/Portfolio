@@ -2,9 +2,17 @@
 
 ## Supervised Learning Section
 
-### CIFAR-10 CNN [[Link]([https://www.kaggle.com/code/josmiguelvilches/ga4-sales-prediction](https://github.com/jvilchesf/Learning/blob/main/CIFAR-10%20CNN/script/main_v8_augmentation.ipynb))]
+### GPT Transformer [[Link](https://colab.research.google.com/drive/1_qkPVUbBRO242l33qleRSpLnZEhrMC8I)]
+* Transformers, normalization, residual connections, dropout
+* Generating Shakespearean text using a trained model with transformer architecture
+<img alt="image" src="https://github.com/user-attachments/assets/a358fda6-da1f-4039-a2a9-8d182c051c82" width = "300" height = "250">
+
+
+---
+
+### CIFAR-10 CNN [[Link](https://github.com/jvilchesf/Learning/blob/main/CIFAR-10%20CNN/script/main_v8_augmentation.ipynb)]
 * Convolutional NN, normalization, pooling, droping from scratch
-<img src="<img width="573" alt="image" src="https://github.com/user-attachments/assets/b6f39e71-e218-4c5d-8672-93eff5993167" width = "300" height = "150">
+<img alt="image" src="https://github.com/user-attachments/assets/b6f39e71-e218-4c5d-8672-93eff5993167" width = "300" height = "150">
 
 
 ---
