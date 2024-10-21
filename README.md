@@ -30,7 +30,7 @@
 
 ## Supervised Learning Section
 
-### GPT Transformer [[Link](https://colab.research.google.com/drive/1_qkPVUbBRO242l33qleRSpLnZEhrMC8I)]
+### GPT Transformer [[Link](https://colab.research.google.com/drive/1_qkPVUbBRO242l33qleRSpLnZEhrMC8I#scrollTo=eYC9OW5qfDHk)]
 * Transformers, normalization, residual connections, dropout
 * Generating Shakespearean text using a trained model with transformer architecture
 <img alt="image" src="https://github.com/user-attachments/assets/a358fda6-da1f-4039-a2a9-8d182c051c82" width = "300" height = "250">
