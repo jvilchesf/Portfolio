@@ -2,15 +2,15 @@
 
 **Pontificia Universidad Católica de Valparaíso**  
 
-*Master of Science in Computer Science*  
-Valparaíso, Chile | March 2013 – July 2014  
+*Master of Science in Computer Science*   Valparaíso, Chile | March 2013 – July 2014  
+- Thesis: Resolution of the Set Covering Problem using the Firefly Metaheuristic.
 
-*Bachelor of Science in Computer Science*  
-Valparaíso, Chile | March 2009 – July 2012  
+*Bachelor of Science in Computer Science*  Valparaíso, Chile | March 2009 – July 2012  
+- Thesis: Application of Web Usage Mining to the EMOL.COM web platform (K-means)
 
 **Certifications**  
 - **Google Advanced Data Analytics Professional Certificate**
-- **Machine Learning Specialization** (Stanford University, instructed by Andrew Ng)1
+- **Machine Learning Specialization** (Stanford University, instructed by Andrew Ng)
 
 ---
 
