@@ -1,13 +1,12 @@
 ## Education
 
 **Pontificia Universidad Católica de Valparaíso**  
-*Master of Science in Computer Science*  Valparaíso, Chile | March 2013 – July 2014  
-- **Thesis:** Resolution of the Set Covering Problem using the Firefly Metaheuristic.
 
-**Pontificia Universidad Católica de Valparaíso**  
-*Bachelor of Science in Computer Science*  Valparaíso, Chile | March 2009 – July 2012  
-- **Project:** Application of Web Usage Mining to the EMOL.COM web platform (K-means)
-- **Relevant Coursework:** Probability & Discrete Mathematics, Data Structures & Algorithms, Linear Algebra.
+*Master of Science in Computer Science*  
+Valparaíso, Chile | March 2013 – July 2014  
+
+*Bachelor of Science in Computer Science*  
+Valparaíso, Chile | March 2009 – July 2012  
 
 **Certifications**  
 - **Google Advanced Data Analytics Professional Certificate**
