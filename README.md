@@ -5,10 +5,9 @@
 **Master of Science in Computer Science**   
 March 2013 – July 2014  
 - Thesis: Resolution of the Set Covering Problem using the Firefly Metaheuristic.
-
 **Bachelor of Science in Computer Science**
 March 2009 – July 2012  
-- Thesis: Application of Web Usage Mining to the EMOL.COM web platform (K-means)
+- Thesis: Application of Web Usage Mining to the EMOL.COM web platform (K-means).
 
 **Certifications**  
 - **Google Advanced Data Analytics Professional Certificate**
