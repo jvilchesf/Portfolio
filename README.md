@@ -1,25 +1,49 @@
 ## Education
 
 **Pontificia Universidad Católica de Valparaíso**  
-*Master of Science in Computer Science*  
-Valparaíso, Chile | March 2013 – July 2014  
+*Master of Science in Computer Science*  Valparaíso, Chile | March 2013 – July 2014  
 - **Thesis:** Resolution of the Set Covering Problem using the Firefly Metaheuristic.
 
 **Pontificia Universidad Católica de Valparaíso**  
-*Bachelor of Science in Computer Science*  
-Valparaíso, Chile | March 2009 – July 2012  
+*Bachelor of Science in Computer Science*  Valparaíso, Chile | March 2009 – July 2012  
 - **Project:** Application of Web Usage Mining to the EMOL.COM web platform (K-means)
 - **Relevant Coursework:** Probability & Discrete Mathematics, Data Structures & Algorithms, Linear Algebra.
 
 **Certifications**  
 - **Google Advanced Data Analytics Professional Certificate**
-- **Machine Learning Specialization** (Stanford University, instructed by Andrew Ng)
+- **Machine Learning Specialization** (Stanford University, instructed by Andrew Ng)1
 
-**Languages**  
-- Spanish (Native)
-- English (Fluent)
+---
 
-### Pontifica Universidad Católica de Vaplaraíso
+## Professional Experience
+
+**Uprofit**  
+*Freelance Data Analyst*  *Oct 2023 – September 2024*  
+- Developed comprehensive sales dashboards.
+- Utilized Python and BigQuery to aggregate and analyze data.
+- Implemented Google Analytics 4 and Google Tag Manager for enhanced tracking.
+
+**Banco Falabella**  
+*Reporting Engineer*  *May 2021 – Jul 2022*  
+- Foster added value and support decision-making through data.
+- Deep understanding of the data and the business context in which it is used.
+- Develop descriptive dashboards with customer focus.
+- Promote information accessibility and self-service.
+
+**Banco Falabella**  
+*Reporting Engineer*  *Jan 2019 – February Jul 2021*  
+- Develop customer-focused business reports.
+- Help inform business decision and identify opportunities for improvement.
+- Continuously improve reporting processes.
+
+**Banco Falabella**  
+*Management Control Engineer*  *Apr 2016 – Jan 2019*  
+- Ensured the accuracy and security of the incentive payment database.
+- Generated and distributed daily sales reports.
+- Maintained and optimized automated processes.
+- Monitored processes to identify and implement improvements.
+
+---
 
 ## Visualization
 
